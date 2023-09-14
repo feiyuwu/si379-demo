@@ -11,6 +11,7 @@
 
 function addOne(x) {
     // TODO: Write your code here
+    return x + 1;
 }
 
 
@@ -21,6 +22,7 @@ function addOne(x) {
 
 function largest(lst) {
     // TODO: Write your code here
+    return Math.max(...lst);
 }
 
 /**
@@ -36,4 +38,8 @@ function largest(lst) {
 
 function fact(n) {
     // TODO: Write your code here
+    if (n === 1 || n === 0) {
+        return 1;
+    }
+    return n * fact(n - 1);
 }
