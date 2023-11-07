@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Si379/ps6/static/css/main.5332ddda.css",
-    "main.js": "/Si379/ps6/static/js/main.bf5ed2a9.js",
-    "index.html": "/Si379/ps6/index.html",
-    "main.5332ddda.css.map": "/Si379/ps6/static/css/main.5332ddda.css.map",
-    "main.bf5ed2a9.js.map": "/Si379/ps6/static/js/main.bf5ed2a9.js.map"
+    "main.css": "/si379-demo/ps6/build/static/css/main.5332ddda.css",
+    "main.js": "/si379-demo/ps6/build/static/js/main.bf5ed2a9.js",
+    "index.html": "/si379-demo/ps6/build/index.html",
+    "main.5332ddda.css.map": "/si379-demo/ps6/build/static/css/main.5332ddda.css.map",
+    "main.bf5ed2a9.js.map": "/si379-demo/ps6/build/static/js/main.bf5ed2a9.js.map"
   },
   "entrypoints": [
     "static/css/main.5332ddda.css",
